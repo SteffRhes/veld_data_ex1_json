@@ -1,0 +1,5 @@
+x-veld:
+    veld_data:
+        file: "data.json"
+        type: "json"
+    output_from: "https://github.com/steffres/veld_service_2__data_1_service_1_data_2"
