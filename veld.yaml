@@ -1,6 +1,10 @@
 x-veld:
-    veld_data:
-        file: "data.json"
-        type: "json"
-    output_from:
-        - "https://github.com/steffres/veld_chain_1__d1_d3_e1_d2"
+  data:
+    about:
+      description: "dummy data for testing purpose."
+      scope: "testing"
+    files:
+      path: ./data/data.json
+      format: "json"
+      kind: "dummy data"
+
