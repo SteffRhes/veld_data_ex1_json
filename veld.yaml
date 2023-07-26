@@ -4,7 +4,7 @@ x-veld:
       description: "dummy data for testing purpose."
       scope: "testing"
     files:
-      path: ./data/data.json
+      path: ./data/
       format: "json"
       kind: "dummy data"
 
