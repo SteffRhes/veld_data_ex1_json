@@ -5,4 +5,5 @@ x-veld:
     files:
       path: data.json
       format: "json"
+      kind: "dummy data"
 
